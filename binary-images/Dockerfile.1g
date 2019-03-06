@@ -1,0 +1,13 @@
+FROM alpine:3.9
+
+# 256MB
+COPY dummy_binary dummy1
+
+# 512MB
+COPY dummy_binary dummy2
+
+# 768MB
+COPY dummy_binary dummy3
+
+# 1GB
+COPY dummy_binary dummy4
