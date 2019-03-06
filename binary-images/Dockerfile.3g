@@ -31,7 +31,7 @@ COPY dummy_binary dummy21
 COPY dummy_binary dummy22
 
 # 2.75GB
-COjY dummy_binary dummy23
+COPY dummy_binary dummy23
 
 # 3GB
 COPY dummy_binary dummy24
